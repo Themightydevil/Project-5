@@ -1,0 +1,91 @@
+<resources>
+<string name="app_name">Tour Guide: Delhi</string>
+<string name="image_description">Image</string>
+<string name="faqs">FAQs</string>
+<string name="operating_hours">Operational Hours:</string>
+<string name="fees">Entry Fees/Cost:</string>
+
+<string name="hello_blank_fragment">Hello world</string>
+
+<!-- Description of places -->
+
+<string name="red_fort_info">The Red Fort is an epitome of the Mughal era in India and is the
+        face of tourist attractions in Delhi. Built in 1638, it is an outstanding marvel of Mughal
+        architecture made of red sand stone. Within its magnanimous walls, the chhata bazaar and
+        every evening sound and light show are special attractions. If you are interested in the
+        history of Red Fort, you will be thrilled to know that the Fort was built when Mughal
+        Emperor, Shah Jahan shifted his capital to Delhi. In 2007, this Fort has declared a UNESCO
+        World Heritage. It is one of the most famous places in Delhi.</string>
+
+<string name="india_gate_info">India Gate is one monument that defines Delhi or India for that
+        matter. It was built in 1931 as a memorial for martyrs of World War I and war in
+        Afghanistan. At Rajpath, the structure looks amazing in evening lights. The gardens that
+        line the structure are a must visit among the sightseeing places in Delhi. \n \n If you are
+        in Delhi on the Republic Day, you must visit the India Gate Parade which is really a
+        prestigious and the most ceremonious event of India. Lots of international guests and
+        national leaders are present on the occasion and pay tribute to the freedom fighters and
+        great leaders of the country.</string>
+
+<string name="rashtrapati_bhawan_info">On the opposite of the Rajpath is residence of the
+        President of India. Not among the typical tourist places in Delhi, access to this grand
+        piece of architecture is restricted. With four floors and 340 rooms in a floor area of
+        200,000 square feet, it has a huge presidential gardens (Mughal Gardens), large open spaces,
+        residences of bodyguards and staff, stables, other offices and utilities within its
+        perimeter walls. This grand architectural building is the largest residence of any head of
+        the state around the world. The architectural design of the building is based on the design
+        of the Edwardian Baroque. The middle dome of the building is the perfect amalgamation of
+        the Indian and the British architectural styles. Just a walk past the monument will give you
+        the idea of how grand the monument is.</string>
+
+<string name="kunzum_travel_cafe_info">While in Delhi you can meet with the other travelers here
+        and have a great time to share stories, getting to know others and making perhaps travel
+        buddies as well. Foreign tourists flock here and you can share your knowledge about the city
+        and its attractions with them. They also have their own website called Kunzum.com where you
+        can upload pictures, no worries about wifi, they have a free one for you to use. Located in
+        the Hauz Khas village, it has become a part of the historical landscape for the city as
+        well. Kunzum has become a travel Mecca where people come to tell tales about places unknown
+        and known.</string>
+
+<string name="the_blue_bar_info">If you want to explore the nightlife scene of Delhi then this
+        is the best bar to head to. It is one of the best luxurious lounge and bars in the city
+        because of its charismatic and yet edgy decor of red on black that makes its patrons have a
+        really unique experience. The ambient lighting and the DJ playing some popular tracks will
+        make your night. Of course the drinks will just make it better.</string>
+
+<!-- Operational Hours of places -->
+
+<string name="red_fort_hours">9 am to 6 pm. Closed on Mondays</string>
+<string name="india_gate_hours">Always open</string>
+<string name="rashtrapati_bhawan_hours">9 am till late evening.</string>
+<string name="kunzum_travel_cafe_hours">Open all days a week from 11:00 am to 7:30 pm except on
+        Monday</string>
+<string name="the_blue_bar_hours">Open from 12:30 PM to 12:45 AM during the weekdays while
+        weekend timings are from 5 PM to 12:45 AM.</string>
+
+<!-- Entry Fees/Expenditure of places -->
+
+<string name="red_fort_fees">Free for children under 15, INR 10 for Indians, and INR 250 for
+        foreigners</string>
+<string name="india_gate_fees">Free</string>
+<string name="rashtrapati_bhawan_fees">Free</string>
+<string name="kunzum_travel_cafe_cost">No need to buy anything but if you do then you can pay
+        whatever you want.</string>
+<string name="the_blue_bar_cost">The average on food and alcohol comes to about 3500 INR but you
+        will have to shell out 400 INR more for ordering up a pint of beer.</string>
+
+<!-- FAQs -->
+
+<string name="ques_1"><b>Q: Which are the places to visit in Delhi on Christmas?</b>\nA: Visit Sacred
+        Heart Cathedral, The Imperial at Janpath, or an of the clubs during Christmas if you are in Delhi.</string>
+<string name="ques_2"><b>Q: Which are best places to visit in Delhi near Hauz Khas?</b>\nA: Deer Park
+        and Hauz Khas village which is famous for its party clubs and lounges are famous places near
+        Hauz Khas in Delhi.</string>
+<string name="ques_3"><b>Q: Which are the best places to visit in Delhi with family in winters?</b>\n
+        A: Akshardham Temple, Chandni Chowk, Qutub Minar, Nehru Planetarium are some of the places to visit
+    in Delhi with family in winters.</string>
+<string name="ques_4"><b>Q: Which are the best places to visit in Delhi during November?</b>\nA: Take
+        a walk around Connaught Palace, visit Lodhi Gardens, Qutub Minar, or Deer Park in Delhi
+        during November.</string>
+
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor">
+
+    <ImageView
+        android:id="@+id/place_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:contentDescription="@string/image_description" />
+
+    <TextView
+        android:id="@+id/info_text_view"
+        style="@style/TourListText"
+        android:layout_below="@id/place_image_view"
+        android:layout_marginBottom="20dp"
+        android:gravity="start"
+        android:textIsSelectable="true"
+        android:textSize="17sp"
+        tools:text="Info Para" />
+
+    <TextView
+        android:id="@+id/hours_text_view"
+        style="@style/TourListText"
+        android:layout_below="@id/info_text_view"
+        android:text="@string/operating_hours"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/opening_hours_text_view"
+        style="@style/TourListText"
+        android:layout_below="@id/hours_text_view"
+        android:textSize="15sp"
+        tools:text="Opening Hours" />
+
+    <TextView
+        android:id="@+id/fees_generic_text_view"
+        style="@style/TourListText"
+        android:layout_below="@id/opening_hours_text_view"
+        android:text="@string/fees"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/fees_text_view"
+        style="@style/TourListText"
+        android:layout_below="@id/fees_generic_text_view"
+        android:textSize="15sp"
+        tools:text="Entry Fees" />
+
+    <Button
+        android:id="@+id/faqs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fees_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/faqs" />
+
+</RelativeLayout>
